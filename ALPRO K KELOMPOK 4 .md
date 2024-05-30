@@ -1,6 +1,4 @@
-# alpro-k-kelompok-4
-kode aplikasi shopping list furniture
-
+# alpro-k-kelompok-4 kode aplikasi shopping list furniture
 
 import tkinter as tk
 from tkinter import ttk, messagebox
